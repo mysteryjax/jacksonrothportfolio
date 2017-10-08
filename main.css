@@ -26,6 +26,13 @@ text-decoration: none;
 h1{
   color: white;
 }
+iframe{
+  width: 50%;
+  height: 166;
+}
+home{
+
+}
 body {
     background-image: url("photography/background.jpg");
     background-size: cover;

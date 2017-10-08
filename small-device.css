@@ -1,6 +1,6 @@
 #home {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     height: 30%;
     width: 50%;
@@ -13,7 +13,7 @@ img.resize {
 a:link {
 color: white;
 text-decoration: none;
-font-size: 180%;
+font-size: 480%;
 }
 a:visited{
 color: powderblue;
@@ -25,6 +25,11 @@ text-decoration: none;
 }
 h1{
   color: white;
+  font-size: 500%;
+}
+iframe{
+  width: 80%;
+  height: 166;
 }
 body {
     background-image: url("photography/backgroundmobile.png");
