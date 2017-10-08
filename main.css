@@ -26,13 +26,21 @@ text-decoration: none;
 h1{
   color: white;
 }
-body{
-  background-image: url("photography/background.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  overflow: hidden;
-    //background-size: 100%;
-    //background-repeat: no-repeat;
-    //background-attachment: fixed;
+@media (min-width: 450px) {
+  body {
+    background-image: url("photography/backgroundmobile.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+  }
+}
+@media (min-width: 600px) {
+  body {
+    background-image: url("photography/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+  }
 }
