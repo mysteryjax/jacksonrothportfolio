@@ -27,7 +27,7 @@ h1{
   color: white;
 }
 body {
-    background-image: url("photography/background.jpg");
+    background-image: url("photography/backgroundmobile.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
