@@ -1,0 +1,40 @@
+#home {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+}
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+a:link {
+color: white;
+text-decoration: none;
+font-size: 300%;
+}
+a:visited{
+color: powderblue;
+text-decoration: none;
+}
+a:hover {
+color: yellow;
+text-decoration: none;
+}
+h1{
+  color: white;
+  font-size: 500%;
+}
+iframe{
+  width: 80%;
+  height: 166;
+}
+body {
+    background-image: url("photography/backgroundmobile.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
