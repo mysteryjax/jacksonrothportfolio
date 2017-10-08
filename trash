@@ -78,3 +78,7 @@ body{
     background-attachment: fixed;
     overflow: hidden;
     }
+
+    @media (min-width: 600px) {
+
+    }
