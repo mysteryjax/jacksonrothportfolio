@@ -30,8 +30,9 @@ iframe{
   width: 50%;
   height: 166;
 }
-home{
-
+img.construction{
+  width: 50px;
+  height: 10%;
 }
 body {
     background-image: url("photography/background.jpg");
